@@ -1,0 +1,22 @@
+{
+    "short_name": "Mi Amor",
+    "name": "App Dedicada a Mi Novia",
+    "icons": [
+        {
+            "src": "ally.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "ally2.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#ffebee",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#ff69b4",
+    "description": "Una app personal para mi novia hermosa."
+}
