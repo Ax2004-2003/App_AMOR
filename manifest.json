@@ -1,25 +1,25 @@
 {
-    "short_name": "Aly ♡",
-    "name": "Para mi novia Aly",
-    "icons": [
-        {
-            "src": "ally.png",
-            "sizes": "192x192",
-            "type": "image/svg+xml",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "ally2.png",
-            "sizes": "512x512",
-            "type": "image/svg+xml",
-            "purpose": "any maskable"
-        }
-    ],
-    "start_url": "index.html",
-    "display": "standalone",
-    "scope": ".",
-    "background_color": "#ffebee",
-    "theme_color": "#ff69b4",
-    "description": "Una app hecha con amor para Aly ♡",
-    "orientation": "portrait-primary"
+  "short_name": "Aly ♡",
+  "name": "Para mi novia Aly",
+  "description": "Una app hecha con amor para Aly ♡",
+  "icons": [
+    {
+      "src": "ally.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "ally.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "scope": ".",
+  "background_color": "#ffebee",
+  "theme_color": "#ff69b4",
+  "orientation": "portrait-primary"
 }
